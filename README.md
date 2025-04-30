@@ -42,12 +42,12 @@
     <h2>Contact Us</h2>
     <p>Ready to book or have questions? Reach out below:</p>
     <ul>
-      <li>Phone: (555) 123-4567</li>
-      <li>Email: info@markovinasdetailing.com</li>
-      <li>Service Area: Greater [Your City/Area]</li>
+      <li>Phone: (412) 559-0350</li>
+      <li>Email: markovinaDetail@gmail.com info@markovinasdetailing.com</li>
+      <li>Service Area: Based out of Greensburg, PA</li>
     </ul>
     <form>
-      <label for="name">Name:</label>
+      <label for="name">George Markovina:</label>
       <input type="text" id="name" required />
       <label for="email">Email:</label>
       <input type="email" id="email" required />
