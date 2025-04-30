@@ -45,7 +45,7 @@
       <li>Phone: (412) 559-0350</li>
       <li>Email: MarkovinaMobileDetail@gmail.com 
       <li>Additional info: MarkovinasMobileDetailing.com</li>
-      <li>Locatopn: Greensburg PA, 15601</li>
+      <li>Location: Greensburg PA, 15601</li>
     
 
   <footer>
