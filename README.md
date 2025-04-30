@@ -1,5 +1,3 @@
-# Markovina-s-Detailing
-High-end Mobile Detailing 
 <!DOCTYPE html>
 <html lang="en">
 <head>
