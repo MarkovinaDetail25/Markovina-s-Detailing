@@ -43,7 +43,7 @@
     <p>Ready to book or have questions? Reach out below:</p>
     <ul>
       <li>Phone: (412) 559-0350</li>
-      <li>Email: markovinaDetail@gmail.com info@markovinasdetailing.com</li>
+      <li>Email: markovinaDetail@gmail.com and further information @ markovinasdetailing.com</li>
       <li>Service Area: Based out of Greensburg, PA</li>
     </ul>
     <form>
