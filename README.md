@@ -44,18 +44,8 @@
     <ul>
       <li>Phone: (412) 559-0350</li>
       <li>Email: markovinaDetail@gmail.com and further information @ markovinasdetailing.com</li>
-      <li>Service Area: Based out of Greensburg, PA</li>
-    </ul>
-    <form>
-      <label for="name">George Markovina:</label>
-      <input type="text" id="name" required />
-      <label for="email">Email:</label>
-      <input type="email" id="email" required />
-      <label for="message">Message:</label>
-      <textarea id="message" rows="5" required></textarea>
-      <button type="submit">Send Message</button>
-    </form>
-  </section>
+      <li>Service Area: Based out of Greensburg, PA 15601</li>
+    
 
   <footer>
     <p>&copy; 2025 Markovina’s Detailing. All rights reserved.</p>
