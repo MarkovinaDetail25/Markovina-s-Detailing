@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <h1>Markovina’s Detailing</h1>
+    <h1>Markovina’s Mobile Detailing</h1>
     <p>Premium Mobile Auto Detailing – We Come to You!</p>
     <nav>
       <a href="#services">Services</a>
